@@ -1,0 +1,22 @@
+//
+//  Localizable.strings
+//  Swift-Localization
+//
+//  Created by Saumil Shah on 26/11/24.
+//
+
+"Localization" = "Localisation";
+"Select language" = "Sélectionnez la langue";
+"English" = "English";
+"Arabic" =  "عربي";
+"Spanish" = "Español";
+"French" = "Français";
+"Chinese" = "中国人";
+"Dismiss" = "Rejeter";
+"John Doe" = "John Doe";
+"100 USD" = "100 USD";
+"Pay" = "Payer";
+"Pay with Apple Pay" = "Payer avec Apple Pay";
+"Log in and pay directly from your apple wallet" = "Connectez-vous et payez directement depuis votre portefeuille Apple";
+"Bank transfer" = "Virement bancaire";
+"You can pay from your bank account." = "Vous pouvez payer depuis votre compte bancaire.";

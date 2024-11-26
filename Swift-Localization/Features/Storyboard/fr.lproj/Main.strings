@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "You can pay from your bank account."; ObjectID = "4pW-mf-WjR"; */
+"4pW-mf-WjR.text" = "You can pay from your bank account.";
+
+/* Class = "UILabel"; text = "Log in and pay directly from your apple wallet"; ObjectID = "8YT-fZ-QQk"; */
+"8YT-fZ-QQk.text" = "Log in and pay directly from your apple wallet";
+
+/* Class = "UILabel"; text = "Pay"; ObjectID = "Gmd-2g-58z"; */
+"Gmd-2g-58z.text" = "Pay";
+
+/* Class = "UILabel"; text = "Pay with Apple Pay"; ObjectID = "lsX-g5-wJY"; */
+"lsX-g5-wJY.text" = "Pay with Apple Pay";
+
+/* Class = "UILabel"; text = "100 USD"; ObjectID = "oAS-H5-CRr"; */
+"oAS-H5-CRr.text" = "100 USD";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oHv-S2-9Vq"; */
+"oHv-S2-9Vq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "opX-4T-Db4"; */
+"opX-4T-Db4.text" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "John Cinna"; ObjectID = "zx3-H2-udh"; */
+"zx3-H2-udh.text" = "John Cinna";
