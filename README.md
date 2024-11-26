@@ -1,6 +1,8 @@
 # Swift-Localization #
 
-swift-localization is a payment application userinterface that showcases various app language support and switching between each other. Application has ability to save the prefer-language. 
+swift-localization is a payment application user interface that showcases various app language support and switching between each other. The application has the ability to save the preferred language. 
+
+https://github.com/user-attachments/assets/8b90f33a-38c1-4b9b-bf66-3fba6fbed247
 
     
 ## Technology Stack
