@@ -1,6 +1,6 @@
 # Swift-Localization #
 
-swift-localization is a payment application that showcases various app language support and switching between each other. The application has the ability to save the preferred language. 
+Swift-Localization is a payment application that demonstrates comprehensive multi-language compatibility by allowing users to move between app languages easily. The app also includes the functionality to save the user's preferred language for a personalized and consistent experience.
 
 https://github.com/user-attachments/assets/8b90f33a-38c1-4b9b-bf66-3fba6fbed247
 
@@ -9,12 +9,13 @@ https://github.com/user-attachments/assets/8b90f33a-38c1-4b9b-bf66-3fba6fbed247
 
 - Language: Swift 
 - Xcode Version: 16.0 and later
-
+- iOS Version: 16.0 and later
 
 ## Key Features
 
-- Payment Interface Available
-- LTR and RTL Layout Support
+**Seamless Payment Interface:** Integrated for smooth and secure transactions.
+**Comprehensive Localization:** Supports multiple languages for a global audience.
+**Bidirectional Layout Support:** Fully optimized for both LTR (Left-to-Right) and RTL (Right-to-Left) layouts, ensuring usability across diverse languages.
 
 
 ## Supported App Languages
