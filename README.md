@@ -14,7 +14,9 @@ https://github.com/user-attachments/assets/8b90f33a-38c1-4b9b-bf66-3fba6fbed247
 ## Key Features
 
 **Seamless Payment Interface:** Integrated for smooth and secure transactions.
+
 **Comprehensive Localization:** Supports multiple languages for a global audience.
+
 **Bidirectional Layout Support:** Fully optimized for both LTR (Left-to-Right) and RTL (Right-to-Left) layouts, ensuring usability across diverse languages.
 
 
