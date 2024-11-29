@@ -35,4 +35,4 @@ Please feel free to create pull request.
 
 ## License
 
-SwiftUI-Localization is written in Swift and is open source.
+Swift-Localization is written in Swift and is open source.
