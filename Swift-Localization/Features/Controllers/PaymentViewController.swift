@@ -81,7 +81,7 @@ class PaymentViewController: UIViewController {
     /// The func is `changeAppLanguage` which is used to change the language
     ///  A PaymentViewController's `changeAppLanguage` method
     ///
-    fileprivate func changeAppLanguage(language: Language) {
+    func changeAppLanguage(language: Language) {
         // Update selected language code in User Default
         PreferenceManager.shared.appLanguage = language.code
         // Update UI

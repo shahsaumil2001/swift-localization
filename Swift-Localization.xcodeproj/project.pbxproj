@@ -6,7 +6,18 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXContainerItemProxy section */
+		8E29A5482CF99A0A00A977A3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8EEC65782CF59694005E2CB6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8EEC657F2CF59694005E2CB6;
+			remoteInfo = "Swift-Localization";
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		8E29A5442CF99A0900A977A3 /* Swift-LocalizationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift-LocalizationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EEC65802CF59694005E2CB6 /* Swift-Localization.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Localization.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -21,6 +32,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		8E29A5452CF99A0A00A977A3 /* Swift-LocalizationTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Swift-LocalizationTests";
+			sourceTree = "<group>";
+		};
 		8EEC65822CF59694005E2CB6 /* Swift-Localization */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -32,6 +48,13 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		8E29A5412CF99A0900A977A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EEC657D2CF59694005E2CB6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -46,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				8EEC65822CF59694005E2CB6 /* Swift-Localization */,
+				8E29A5452CF99A0A00A977A3 /* Swift-LocalizationTests */,
 				8EEC65812CF59694005E2CB6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				8EEC65802CF59694005E2CB6 /* Swift-Localization.app */,
+				8E29A5442CF99A0900A977A3 /* Swift-LocalizationTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,6 +86,29 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		8E29A5432CF99A0900A977A3 /* Swift-LocalizationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8E29A54C2CF99A0A00A977A3 /* Build configuration list for PBXNativeTarget "Swift-LocalizationTests" */;
+			buildPhases = (
+				8E29A5402CF99A0900A977A3 /* Sources */,
+				8E29A5412CF99A0900A977A3 /* Frameworks */,
+				8E29A5422CF99A0900A977A3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8E29A5492CF99A0A00A977A3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8E29A5452CF99A0A00A977A3 /* Swift-LocalizationTests */,
+			);
+			name = "Swift-LocalizationTests";
+			packageProductDependencies = (
+			);
+			productName = "Swift-LocalizationTests";
+			productReference = 8E29A5442CF99A0900A977A3 /* Swift-LocalizationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		8EEC657F2CF59694005E2CB6 /* Swift-Localization */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8EEC65932CF59695005E2CB6 /* Build configuration list for PBXNativeTarget "Swift-Localization" */;
@@ -93,6 +141,10 @@
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
+					8E29A5432CF99A0900A977A3 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 8EEC657F2CF59694005E2CB6;
+					};
 					8EEC657F2CF59694005E2CB6 = {
 						CreatedOnToolsVersion = 16.0;
 					};
@@ -117,11 +169,19 @@
 			projectRoot = "";
 			targets = (
 				8EEC657F2CF59694005E2CB6 /* Swift-Localization */,
+				8E29A5432CF99A0900A977A3 /* Swift-LocalizationTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		8E29A5422CF99A0900A977A3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EEC657E2CF59694005E2CB6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -132,6 +192,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		8E29A5402CF99A0900A977A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EEC657C2CF59694005E2CB6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -141,7 +208,49 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		8E29A5492CF99A0A00A977A3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8EEC657F2CF59694005E2CB6 /* Swift-Localization */;
+			targetProxy = 8E29A5482CF99A0A00A977A3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		8E29A54A2CF99A0A00A977A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "App.Swift-LocalizationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swift-Localization.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Swift-Localization";
+			};
+			name = Debug;
+		};
+		8E29A54B2CF99A0A00A977A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "App.Swift-LocalizationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swift-Localization.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Swift-Localization";
+			};
+			name = Release;
+		};
 		8EEC65942CF59695005E2CB6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -330,6 +439,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		8E29A54C2CF99A0A00A977A3 /* Build configuration list for PBXNativeTarget "Swift-LocalizationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E29A54A2CF99A0A00A977A3 /* Debug */,
+				8E29A54B2CF99A0A00A977A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		8EEC657B2CF59694005E2CB6 /* Build configuration list for PBXProject "Swift-Localization" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
